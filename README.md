@@ -1,4 +1,4 @@
-# [Python] Check-Host Auto Blocker
+# [Python] Check-Host Auto Blocker (12/04/2020)
 
 > sudo su
 
